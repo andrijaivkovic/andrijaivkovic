@@ -3,7 +3,7 @@ I'm intereseted in front-end development, video editing, web design and graphics
 <hr>
 I'm currently improving the knowlege I gained in college by going through <br> 
 Jonas Schmedtmann's courses on Udemy and completing the challenges <br>
-provided on https://www.frontendmentor.io/ <br>
+provided on https://www.frontendmentor.io/ <br><br>
 
 Completed Courses:
 
