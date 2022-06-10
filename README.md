@@ -16,7 +16,7 @@ Courses that I'm currently going through:
 &nbsp;While I have all most of the knowledge thought taught in this course, I'm taking <br>
 &nbsp;it to solidiy the basics of semantic HTML and CSS
 
-- **'JavaScript: The Advanced Concepts'** by Andrei Neagoie <br>
+- **'JavaScript: The Advanced Concepts' by Andrei Neagoie** <br>
 &nbsp;By taking this course I aim to get the more advanced knowledge of JavaScript and programming <br>
 &nbsp;in general, not just in web development.
 
