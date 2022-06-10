@@ -14,11 +14,11 @@ Courses that I'm currently going through:
 
 - '**Build Responsive Real-World Websites with HTML and CSS' by Jonas Schmedtmann** <br>
 &nbsp;While I have all most of the knowledge thought taught in this course, I'm taking <br>
-it to solidiy the basics of semantic HTML and CSS
+&nbsp;it to solidiy the basics of semantic HTML and CSS
 
 - **'JavaScript: The Advanced Concepts'** by Andrei Neagoie <br>
 &nbsp;By taking this course I aim to get the more advanced knowledge of JavaScript and programming <br>
-in general, not just in web development.
+&nbsp;in general, not just in web development.
 
 
 <!---
