@@ -5,6 +5,10 @@ I'm currently improving the knowlege I gained in college by going through <br>
 Jonas Schmedtmann's courses on Udemy and completing the challenges <br>
 provided on https://www.frontendmentor.io/ <br><br>
 
+Courses that I plan on taking:
+- **'React - The Complete Guide' by Maximilian Schwarzmüller** <br>
+&nbsp;In this course I learned the basics of JavaScript for frontend development.
+
 Completed Courses:
 
 - **'The Complete JavaScript Course' by Jonas Schmedtmann** <br>
