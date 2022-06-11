@@ -7,7 +7,8 @@ provided on https://www.frontendmentor.io/ <br><br>
 
 Courses that I plan on taking:
 - **'React - The Complete Guide' by Maximilian Schwarzmüller** <br>
-&nbsp;In this course I learned the basics of JavaScript for frontend development.
+&nbsp;By taking this course I plan on getting upto speed with one of the most used <br>
+&nbsp;frontend frameworks: React.js
 
 Completed Courses:
 
