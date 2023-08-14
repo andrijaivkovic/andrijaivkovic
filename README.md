@@ -15,8 +15,8 @@ Completed Courses:
 - **'React - The Ultimate Guide' by Jonas Schmedtmann** <br>
 &nbsp;By taking this course I get upto speed with one of the most used <br>
 &nbsp;frontend frameworks: React.js. I also learned some advanced topics in React realm<br>
-&nbsp; such as routing with React Router, state management with Redux and data<br> 
-&nbsp; fetching with React Query.
+&nbsp;such as routing with React Router, state management with Redux and data<br> 
+&nbsp;fetching with React Query.
 
 Courses that I'm currently going through:
 
