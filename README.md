@@ -7,6 +7,8 @@ provided on https://www.frontendmentor.io/ <br><br>
 
 Courses that I plan on taking:
 
+I'm not currently taking any courses.
+
 Completed Courses:
 
 - **'The Complete JavaScript Course' by Jonas Schmedtmann** <br>
