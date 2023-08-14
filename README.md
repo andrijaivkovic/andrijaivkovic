@@ -6,20 +6,18 @@ Jonas Schmedtmann's courses on Udemy and completing the challenges <br>
 provided on https://www.frontendmentor.io/ <br><br>
 
 Courses that I plan on taking:
-- **'React - The Complete Guide' by Maximilian Schwarzmüller** <br>
-&nbsp;By taking this course I plan on getting upto speed with one of the most used <br>
-&nbsp;frontend frameworks: React.js
 
 Completed Courses:
 
 - **'The Complete JavaScript Course' by Jonas Schmedtmann** <br>
 &nbsp;In this course I learned the basics of JavaScript for frontend development.
 
-Courses that I'm currently going through:
+- **'React - The Ultimate Guide' by Jonas Schmedtmann** <br>
+&nbsp;By taking this course I get upto speed with one of the most used <br>
+&nbsp;frontend frameworks: React.js. I also learned some advanced topics in React realm<br>
+&nbsp; such as routing with React Router, state management with Redux and data fetching with React Query.
 
-- '**Build Responsive Real-World Websites with HTML and CSS' by Jonas Schmedtmann** <br>
-&nbsp;While I have all most of the knowledge thought taught in this course, I'm taking <br>
-&nbsp;it to solidiy the basics of semantic HTML and CSS
+Courses that I'm currently going through:
 
 - **'JavaScript: The Advanced Concepts' by Andrei Neagoie** <br>
 &nbsp;By taking this course I aim to get the more advanced knowledge of JavaScript and programming <br>
