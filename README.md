@@ -12,13 +12,8 @@ I'm not currently taking any courses.
 Completed Courses:
 
 - **'The Complete JavaScript Course' by Jonas Schmedtmann** <br>
-&nbsp;In this course I learned the basics of JavaScript for frontend development.
 
 - **'React - The Ultimate Guide' by Jonas Schmedtmann** <br>
-&nbsp;By taking this course I got upto speed with one of the most used <br>
-&nbsp;frontend libraries: React.js. I also learned some advanced topics in the React realm<br>
-&nbsp;such as routing with React Router, state management with Redux and data<br> 
-&nbsp;fetching with React Query.
 
 Courses that I'm currently going through:
 
